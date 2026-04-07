@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Yashwitha",
+    "email": "yashwitha@gmail.com",
+    "phone": "9876543210"
+  },
+  {
+    "id": 2,
+    "name": "Jaasritha",
+    "email": "jaasritha@gmail.com",
+    "phone": "9123456780"
+  },
+  {
+    "id": 3,
+    "name": "Shiva",
+    "email": "shiva@gmail.com",
+    "phone": "9988776655"
+  },
+  {
+    "id": 4,
+    "name": "Harsha",
+    "email": "harsha@gmail.com",
+    "phone": "9871234560"
+  },
+  {
+    "id": 5,
+    "name": "Rishitha",
+    "email": "rishitha@gmail.com",
+    "phone": "9012345678"
+  }
+]
